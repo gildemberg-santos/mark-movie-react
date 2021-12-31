@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+ margin: 0;
+ font-family: 'Roboto', sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +21,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #121214;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +32,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #8257E6;
 }
 
 @keyframes App-logo-spin {
